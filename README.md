@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nolelle
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on learning Web Dev!
+- 📫 How to reach me eyu1ualberta.ca
 
 <!---
 Nolelle/Nolelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
