@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nolelle
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m currently studying more about Data Structures and Algorithms!
 - 💞️ I’m looking to collaborate on learning Web Dev!
 - 📫 How to reach me eyu1ualberta.ca
 
